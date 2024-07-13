@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @leonardonunesz
-- 🌱 I’m currently learning c and doing an IT technical course
-- 📫 @leonardopsnunes@gmail.com to reach me 
+- 🌲 Formado em Técnico de Informática na ETEC
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Santa Cecília
+- 📫 @leonardopsnunes@gmail.com para contato
